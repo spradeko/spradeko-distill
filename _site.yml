@@ -5,8 +5,9 @@ description: |
 output_dir: "docs"
 navbar:
   logo: 
-    image: images/logo.png
+    icon: fas fa-bone
     href: 
+  search: true
   right:
     - text: "Home"
       href: index.html

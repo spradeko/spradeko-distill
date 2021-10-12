@@ -1,7 +1,7 @@
 ---
 title: "Kohl"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Website in progress! Check back later
 site: distill::distill_website
 ---
 
